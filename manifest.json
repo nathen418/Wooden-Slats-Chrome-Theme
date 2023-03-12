@@ -1,0 +1,42 @@
+{
+   "description": "Wooden Slats Chrome Theme",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+UuW9N1YBiESDsXyCY89wiopeeIknB9rjbxKYHdAuhr9Obyizb/QmGKFiKvqzr/3Vs8Ct/bQBaBK75wGsaIg8CbJbfTeTAqnJx7Ai29msu/EoTasC7/FOUTUPxd8UONtFCZdoPkfFPLqoQpd5+izhB771ZO9+KRKM1gO2QdfpkQIDAQAB",
+   "name": "Wooden Slats Chrome Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 255, 255, 255, 0 ],
+         "frame": [ 173, 98, 41 ],
+         "frame_inactive": [ 173, 98, 41 ],
+         "frame_incognito": [ 173, 98, 41 ],
+         "frame_incognito_inactive": [ 173, 98, 41 ],
+         "ntp_background": [ 173, 98, 41 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 173, 98, 41 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "left bottom",
+         "ntp_background_repeat": "repeat"
+      },
+      "tints": {
+         "background_tab": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ],
+         "buttons": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ],
+         "frame": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ],
+         "frame_inactive": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ],
+         "frame_incognito": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ],
+         "frame_incognito_inactive": [ 0.071969696969697, 0.61682242990654, 0.41960784313725 ]
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "3.7",
+   "manifest_version": 3
+
+}
